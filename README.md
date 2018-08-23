@@ -1,6 +1,8 @@
 RemoteDev
 =========
 
+> **NOTE**: This is just a fork to update dependencies as the original project is not making new releases.
+
 Monitoring flux app's actions along with states to a remote monitor. Meant to be used even in production with any flux architecture for web, universal, React Native, hybrid, desktop and server side apps.
 
 ![Demo](demo.gif)
